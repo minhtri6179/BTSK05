@@ -1,5 +1,5 @@
 # Maximize Sum Of Array After K Negations
-# Time: O(n) | Space: O(1)
+# Time: O(nlogn) | Space: O(1)
 # [-4,-6,9,-2,2] | 4
 # [4,6,9,-2,2] 
 class Solution:
